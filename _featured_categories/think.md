@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Think
-slug: think
+title: Life
+slug: life
 menu: true
 submenu: false
 order: 1
 description: >
-  살면서 깨달은 아이디어 및 지혜, IT에 관련된 생각, 그리고 평소 쓰고 싶었던 글.  
+  일상에서 발생되는 관심사. 음식, 여행, 역사, 언어, 문화, 경제 등 인문학적인 부분.  
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Think
-slug: think
-category: think
+title: Life
+slug: life
+category: life
 menu: false
 order: 1
 ---
